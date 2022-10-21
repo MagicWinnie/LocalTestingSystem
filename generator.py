@@ -1,6 +1,6 @@
 """
 This is a little script to generate correct outputs for tests using an ideal program.
-By @MagicWinnie (Github, Telegram)
+By @MagicWinnie (Github)
 
 The generator should be launched from a directory where the program and tests folder are located:
 directory/         <--- project directory

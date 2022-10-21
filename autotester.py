@@ -1,6 +1,6 @@
 """
 This is a little script to run a program through tests.
-By @MagicWinnie (Github, Telegram)
+By @MagicWinnie (Github)
 
 The tester should be launched from a directory where the program and tests folder are located:
 directory/         <--- project directory
